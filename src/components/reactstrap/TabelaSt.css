@@ -1,0 +1,100 @@
+.fuba {
+    
+                
+    
+    
+    /*border: 5px solid rgb(11, 120, 163);
+    
+    */
+    text-align: center;
+    border-radius: 5px;
+    border-width: 4px;
+    border-color: rgb(66, 44, 66);
+    border-style: solid
+    
+
+
+
+
+
+
+
+}
+
+.linhas{
+    font-weight: bold;
+   color:rgb(70, 12, 104);
+}
+.contei {
+    
+  
+}
+.Conte{
+   
+    
+}
+
+.navegacao{
+   
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-top: 10px;
+}
+
+.barraNavegar{
+    /*Cor da NavBAR*/
+    background-color: rgb(66, 44, 66);
+    
+}
+
+.form{
+    
+    border-radius: 7px;
+    border-width: 4px;
+    border-color: rgb(66, 44, 66);
+    border-style: solid
+    
+}
+
+.forma{
+    font-weight: bold;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-bottom: 30px;
+    padding-top: 10px;
+    
+}
+
+.teste{
+    
+   
+}
+
+.fim{
+    font-weight: bold;
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-bottom: 30px;
+    padding-top: 10px;
+}
+
+.Fundo{
+    height: 100%;
+}
+
+.cassin{
+    padding-top: 100px;
+    font-weight: bold;
+    text-align: center;
+    
+
+}
+
+.popT{
+    font-size: 15px;
+}
+
+.popH{
+    font-weight: bold;
+}
